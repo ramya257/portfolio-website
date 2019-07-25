@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ramya257.github.io/static/css/main.d549e8f1.chunk.css",
-    "main.js": "/ramya257.github.io/static/js/main.13586210.chunk.js",
-    "main.js.map": "/ramya257.github.io/static/js/main.13586210.chunk.js.map",
-    "runtime~main.js": "/ramya257.github.io/static/js/runtime~main.406d65d1.js",
-    "runtime~main.js.map": "/ramya257.github.io/static/js/runtime~main.406d65d1.js.map",
-    "static/js/2.4cbfd1a3.chunk.js": "/ramya257.github.io/static/js/2.4cbfd1a3.chunk.js",
-    "static/js/2.4cbfd1a3.chunk.js.map": "/ramya257.github.io/static/js/2.4cbfd1a3.chunk.js.map",
-    "index.html": "/ramya257.github.io/index.html",
-    "precache-manifest.c1687d517f5af8d37d158672ef23331d.js": "/ramya257.github.io/precache-manifest.c1687d517f5af8d37d158672ef23331d.js",
-    "service-worker.js": "/ramya257.github.io/service-worker.js",
-    "static/css/main.d549e8f1.chunk.css.map": "/ramya257.github.io/static/css/main.d549e8f1.chunk.css.map"
+    "main.css": "/Portfolio-Website/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.6b8b8a94.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.6b8b8a94.chunk.js.map",
+    "runtime~main.js": "/Portfolio-Website/static/js/runtime~main.e524495c.js",
+    "runtime~main.js.map": "/Portfolio-Website/static/js/runtime~main.e524495c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Portfolio-Website/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Portfolio-Website/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "precache-manifest.ff704446803145ae1b4cb0157f535590.js": "/Portfolio-Website/precache-manifest.ff704446803145ae1b4cb0157f535590.js",
+    "service-worker.js": "/Portfolio-Website/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Portfolio-Website/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Portfolio-Website/static/media/logo.5d5d9eef.svg"
   }
 }
