@@ -1,8 +1,7 @@
 {
   "name": "resume-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://ramya257.github.io/mywebsite",
+  "homepage": "https://ramya257.github.io/ramya257.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
